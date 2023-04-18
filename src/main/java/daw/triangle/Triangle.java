@@ -40,5 +40,6 @@ class TriangleTestDrive {
         ta[2].area = 343;
         System.out.print("y = " + y);
         System.out.println(", t5 area = " + t5.area);
+        System.out.println(", t1 area = " + ta[0].area);
     }
 }
